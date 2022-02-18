@@ -1,0 +1,12 @@
+{
+  "name": "TVs",
+  "type": "Electronics",
+  "price": 0,
+  "shipping": 25,
+  "upc": "abcd",
+  "description": "Television",
+  "manufacturer": "Sony",
+  "model": "ABC123",
+  "url": "dummy.com",
+  "image": "string.jpg"
+}

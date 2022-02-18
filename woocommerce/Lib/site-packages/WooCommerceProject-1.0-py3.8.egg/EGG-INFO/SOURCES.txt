@@ -1,0 +1,7 @@
+setup.py
+WooCommerceProject.egg-info/PKG-INFO
+WooCommerceProject.egg-info/SOURCES.txt
+WooCommerceProject.egg-info/dependency_links.txt
+WooCommerceProject.egg-info/not-zip-safe
+WooCommerceProject.egg-info/requires.txt
+WooCommerceProject.egg-info/top_level.txt
